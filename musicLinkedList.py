@@ -86,7 +86,7 @@ playlist.agregar_cancion(cancion7)
 
 playlist.mostrar_playlist()  # Muestra todas las canciones de la playlist
 
-playlist.eliminar_cancion("Best Of  You")  # Elimina la canción de la playlist
+playlist.eliminar_cancion("Best Of You")  # Elimina la canción de la playlist
 playlist.mostrar_playlist()  # Muestra todas las canciones restantes de la playlist
 
 playlist.eliminar_cancion("Beware")  # Intenta eliminar una canción que no está en la playlist
