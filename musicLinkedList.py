@@ -75,13 +75,13 @@ cancion5 = Cancion("Be Quiet and Drive (Far Away)", "Deftones", "Around the Fur"
 cancion6 = Cancion("ATWA", "System Of A Down", "Toxicity")
 cancion7 = Cancion("Best Of You", "Foo Fighters", "In Your Honor")
 
-playlist.agregar_cancion(cancion1)  # Agrega la primera canción a la playlist
-playlist.agregar_cancion(cancion2)  # Agrega la segunda canción a la playlist
-playlist.agregar_cancion(cancion3)  # Agrega la tercera canción a la playlist
-playlist.agregar_cancion(cancion4)  # Agrega la cuarta canción a la playlist
-playlist.agregar_cancion(cancion5)  # Agrega la quinta canción a la playlist
-playlist.agregar_cancion(cancion6)  # Agrega la sexta canción a la playlist
-playlist.agregar_cancion(cancion7)  # Agrega la séptima canción a la playlist
+playlist.agregar_cancion(cancion1)  # Agrega la canción a la playlist
+playlist.agregar_cancion(cancion2)  
+playlist.agregar_cancion(cancion3)  
+playlist.agregar_cancion(cancion4)  
+playlist.agregar_cancion(cancion5)  
+playlist.agregar_cancion(cancion6)  
+playlist.agregar_cancion(cancion7)  
 
 
 playlist.mostrar_playlist()  # Muestra todas las canciones de la playlist
