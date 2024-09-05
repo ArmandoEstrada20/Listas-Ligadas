@@ -1,6 +1,6 @@
 class Juego:
     def __init__(self, nombre,precio,clasificacion):
-        self.nombre = nombre  # El valor del nodo
+        self.nombre = nombre  # El nombre del nodo
         self.precio =precio
         self.clasificacion =clasificacion
         self.next = None  # Apunta al siguiente nodo
